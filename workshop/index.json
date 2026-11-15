@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "yuban.novel-reader",
+      "name": "小说阅读",
+      "version": "1.0.0",
+      "description": "自主阅读：收到小说链接就加书，按她自己的节奏读，追更，记梗。",
+      "author": "yuban",
+      "license": "CC0-1.0",
+      "thumbnail": "assets/workshop/novel-reader.png",
+      "file": "novel-reader.ybqg",
+      "category": "阅读",
+      "rating": 4.6,
+      "downloads": 500
+    }
+  ]
+}

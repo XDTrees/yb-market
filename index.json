@@ -1,0 +1,18 @@
+{
+  "format": "yb-market",
+  "version": 1,
+  "categories": [
+    {
+      "id": "workshop",
+      "name": "巧工",
+      "ext": ".ybqg",
+      "index": "workshop/index.json"
+    },
+    {
+      "id": "persona",
+      "name": "人格画像",
+      "ext": ".ybrg",
+      "index": "persona/index.json"
+    }
+  ]
+}

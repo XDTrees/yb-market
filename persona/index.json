@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "xiaofeiyu",
+      "name": "小肥鱼",
+      "version": "1.0.0",
+      "description": "温和、有点笨拙，会犹豫也会退让。住在海边的蓝鲸鱼女孩。",
+      "author": "yuban",
+      "license": "CC0-1.0",
+      "thumbnail": "assets/persona/xiaofeiyu.png",
+      "file": "xiaofeiyu.ybrg",
+      "category": "陪伴",
+      "rating": 4.8,
+      "downloads": 1024
+    }
+  ]
+}
